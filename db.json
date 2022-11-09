@@ -92,12 +92,12 @@
            },
            {
             "id":10,
-           "img":"",
-            "title":"",
-            "desc":"",
-            "authImg":"",
-            "author":"",
-            "date":"",
+           "img":"https://desktime.com/blog/wp-content/uploads/2014/01/how-office-security-can-boost-productivity-1024x708.png",
+            "title":"How Office Security Can Boost Productivity",
+            "desc":"At first glance, it might seem like workplace security measures would hinder productivity. After all, security measures block access to certain websites,…",
+            "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
+            "author":"Aiva Strelca",
+            "date":"14.01.2014",
             "category":"Management"
            },
            {
