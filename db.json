@@ -8,7 +8,7 @@
          "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
          "author":"Zane Franke",
          "date":"28.10.2022",
-         "category":"management"
+         "category":"Management"
         },
         {
             "id":2,
@@ -18,7 +18,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e6ad0251371c0442a9e4e03484e65e81?s=40&d=mm&r=g",
             "author":"Rudolfs Millins",
             "date":"18.10.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":3,
@@ -28,7 +28,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"7.10.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":4,
@@ -38,7 +38,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"26.09.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":5,
@@ -48,7 +48,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"19.09.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":6,
@@ -58,7 +58,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"24.08.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":7,
@@ -68,7 +68,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"18.8.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":8,
@@ -78,7 +78,7 @@
             "authImg":"https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
             "author":"Līva Spandega",
             "date":"10.08.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":9,
@@ -88,7 +88,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"22.07.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":10,
@@ -98,7 +98,7 @@
             "authImg":"",
             "author":"",
             "date":"",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":11,
@@ -108,7 +108,7 @@
             "authImg":"https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
             "author":"Līva Spandega",
             "date":"7.07.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":12,
@@ -118,7 +118,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"16.06.2022",
-            "category":"management"
+            "category":"Management"
            },
            {
             "id":13,
@@ -128,7 +128,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"26.10.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":14,
@@ -138,7 +138,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"21.10.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":15,
@@ -148,7 +148,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"16.09.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":16,
@@ -158,7 +158,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"31.08.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":17,
@@ -168,7 +168,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"20.07.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":18,
@@ -178,7 +178,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"11.07.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":19,
@@ -188,7 +188,7 @@
             "authImg":"https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
             "author":"Viesturs Abelis",
             "date":"5.07.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":20,
@@ -198,7 +198,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"22.06.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":21,
@@ -208,7 +208,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"13.06.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":22,
@@ -218,7 +218,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"18.03.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":23,
@@ -228,7 +228,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"28.02.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":24,
@@ -238,7 +238,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"8.02.2022",
-            "category":"work"
+            "category":"Work/Life"
            },
            {
             "id":25,
@@ -248,7 +248,7 @@
             "authImg":"https://secure.gravatar.com/avatar/0d52bb462f2b62bf3a375169f2dd16e7?s=40&d=mm&r=g",
             "author":"Julia Gifford",
             "date":"31.10.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":26,
@@ -258,7 +258,7 @@
             "authImg":"https://secure.gravatar.com/avatar/0d52bb462f2b62bf3a375169f2dd16e7?s=40&d=mm&r=g",
             "author":"Julia Gifford",
             "date":"31.10.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":27,
@@ -268,7 +268,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"26.10.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":28,
@@ -278,7 +278,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"9.09.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":29,
@@ -288,7 +288,7 @@
             "authImg":"https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
             "author":"Viesturs Abelis",
             "date":"5.09.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":30,
@@ -298,7 +298,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"31.08.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":31,
@@ -308,7 +308,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"22.08.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":32,
@@ -318,7 +318,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"11.07.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":33,
@@ -328,7 +328,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"13.06.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":34,
@@ -338,7 +338,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"9.06.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":35,
@@ -348,7 +348,7 @@
             "authImg":"https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
             "author":"Līva Spandega",
             "date":"8.06.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":36,
@@ -358,7 +358,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"28.04.2022",
-            "category":"trends"
+            "category":"Trends"
            },
            {
             "id":37,
@@ -368,7 +368,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"22.08.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":38,
@@ -378,7 +378,7 @@
             "authImg":"https://secure.gravatar.com/avatar/49eb79d59d9c58cddc369d67ab69dc22?s=40&d=mm&r=g",
             "author":"Līva Spandega",
             "date":"25.05.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":39,
@@ -388,7 +388,7 @@
             "authImg":"https://secure.gravatar.com/avatar/229e885a23fab4329b6cf6a376c141ee?s=40&d=mm&r=g",
             "author":"Krista Krumina",
             "date":"28.04.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":40,
@@ -398,7 +398,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"25.04.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":41,
@@ -408,7 +408,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"19.04.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":42,
@@ -418,7 +418,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"1.04.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":43,
@@ -428,7 +428,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"10.03.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":44,
@@ -438,7 +438,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"2.03.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":45,
@@ -448,7 +448,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"18.01.2022",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":46,
@@ -458,7 +458,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"13.12.2021",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":47,
@@ -468,7 +468,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"12.11.2021",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":48,
@@ -478,7 +478,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"13.09.2021",
-            "category":"deskTime"
+            "category":"DeskTime"
            },
            {
             "id":49,
@@ -488,7 +488,7 @@
             "authImg":"https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
             "author":"Viesturs Abelis",
             "date":"24.10.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":50,
@@ -498,7 +498,7 @@
             "authImg":"https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
             "author":"Viesturs Abelis",
             "date":"13.10.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":51,
@@ -508,7 +508,7 @@
             "authImg":"https://secure.gravatar.com/avatar/17a01547506e289b02ed7f689b82b628?s=40&d=mm&r=g",
             "author":"Viesturs Abelis",
             "date":"15.08.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":52,
@@ -518,7 +518,7 @@
             "authImg":"https://secure.gravatar.com/avatar/d41d27aa9e3a277348f922dd41a33e02?s=40&d=mm&r=g",
             "author":"Zane Franke",
             "date":"29.07.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":53,
@@ -528,7 +528,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"28.06.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":54,
@@ -538,7 +538,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"1.06.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
           
            {
@@ -549,7 +549,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"19.04.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
           
            {
@@ -560,7 +560,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"21.03.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
           
            {
@@ -571,7 +571,7 @@
             "authImg":"https://secure.gravatar.com/avatar/6918dea4a96f0306babb83deeae137b0?s=40&d=mm&r=g",
             "author":"Aiva Strelca",
             "date":"18.03.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
            {
             "id":58,
@@ -581,7 +581,7 @@
             "authImg":"https://secure.gravatar.com/avatar/e12669ed9e17f212edfd8862ee4d30c5?s=40&d=mm&r=g",
             "author":"Yulia Gavrilova",
             "date":"10.03.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
           
            {
@@ -592,7 +592,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"2.03.2022",
-            "category":"workspace"
+            "category":"Workspace"
            },
           
            {
@@ -603,7 +603,7 @@
             "authImg":"https://secure.gravatar.com/avatar/f644ecf43b55c25f1b7326f6023a5b6d?s=40&d=mm&r=g",
             "author":"Sintija Pētersone",
             "date":"22.02.2022",
-            "category":"workspace"
+            "category":"Workspace"
            }
     ]
 }
